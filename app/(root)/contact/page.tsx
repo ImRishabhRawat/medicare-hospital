@@ -32,10 +32,10 @@ const ContactPage: React.FC = () => {
 						Get in Touch With Us
 					</h1>
 					<p className="text-md text-white font-light">
-						At Shree Ganesh Ayurvedic Clinic, we are dedicated to providing
-						natural healing through authentic Ayurvedic therapies. Whether you
-						have a query or need personalized guidance, our team is here to help
-						you on your journey to holistic wellness.
+						At Sharma Hospital, we are dedicated to providing natural healing
+						through authentic Ayurvedic therapies. Whether you have a query or
+						need personalized guidance, our team is here to help you on your
+						journey to holistic wellness.
 					</p>
 				</div>
 				{/* Right Column: Contact Form */}

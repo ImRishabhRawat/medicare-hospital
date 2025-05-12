@@ -19,10 +19,9 @@ const HowWeHelp: React.FC = () => {
 					{/* Description */}
 					<div className="w-full md:w-1/2 text-left">
 						<p className="text-xl md:text-lg font-light">
-							At Shree Ganesh Ayurvedic Clinic, we blend ancient wisdom with
-							modern practices to offer personalized natural therapies. Explore
-							our specialized treatments designed to nurture your body, mind,
-							and spirit.
+							At Sharma Hospital, we blend ancient wisdom with modern practices
+							to offer personalized natural therapies. Explore our specialized
+							treatments designed to nurture your body, mind, and spirit.
 						</p>
 					</div>
 				</div>
@@ -33,7 +32,7 @@ const HowWeHelp: React.FC = () => {
 					<div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col">
 						<div className="relative h-48">
 							<Image
-								src="/ayurvedic1.jpg"
+								src="/emergency.jpeg"
 								alt="Authentic Ayurvedic Treatments"
 								fill
 								unoptimized={true}
@@ -61,7 +60,7 @@ const HowWeHelp: React.FC = () => {
 					<div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col">
 						<div className="relative h-48">
 							<Image
-								src="/ayurvedic2.jpg"
+								src="/emergency2.jpeg"
 								alt="Holistic Wellness Programs"
 								fill
 								unoptimized={true}
@@ -89,7 +88,7 @@ const HowWeHelp: React.FC = () => {
 					<div className="bg-white rounded-xl shadow-lg overflow-hidden flex flex-col">
 						<div className="relative h-48">
 							<Image
-								src="/ayurvedic3.jpg"
+								src="/emergency.jpeg"
 								alt="Advanced Natural Therapies"
 								fill
 								unoptimized={true}

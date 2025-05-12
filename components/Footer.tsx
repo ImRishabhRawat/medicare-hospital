@@ -15,13 +15,11 @@ const Footer: React.FC = () => {
 			<div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
 				{/* Branding Section */}
 				<div>
-					<h2 className="text-2xl font-bold text-white">
-						Shree Ganesh Ayurvedic Clinic
-					</h2>
+					<h2 className="text-2xl font-bold text-white">Sharma Hospital</h2>
 					<p className="mt-4 text-sm">
-						Shree Ganesh Ayurvedic Clinic provides world-class healthcare
-						services. Our team of experienced doctors and staff ensure you
-						receive compassionate care.
+						Sharma Hospital provides world-class healthcare services. Our team
+						of experienced doctors and staff ensure you receive compassionate
+						care.
 					</p>
 					<div className="flex space-x-4 mt-4">
 						<Link href="https://facebook.com">
@@ -107,8 +105,7 @@ const Footer: React.FC = () => {
 
 			{/* Footer Bottom */}
 			<div className="border-t border-gray-800 mt-8 pt-4 text-center text-sm text-gray-500">
-				&copy; {new Date().getFullYear()} Shree Ganesh Ayurvedic Clinic. All
-				rights reserved.
+				&copy; {new Date().getFullYear()} Sharma Hospital. All rights reserved.
 			</div>
 		</footer>
 	);

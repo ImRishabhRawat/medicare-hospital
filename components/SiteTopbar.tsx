@@ -9,7 +9,7 @@ const SiteTopbar: React.FC = () => {
 				{/* Welcome Text */}
 				<div className="py-2 flex-grow text-center md:text-left">
 					<span className="text-sm md:text-md text-gray-600">
-						Welcome to Shree Ganesh Ayurvedic Clinic
+						Welcome to Sharma Hospital
 					</span>
 				</div>
 				{/* Desktop Menu */}

@@ -61,7 +61,7 @@ const AboutSection: React.FC = () => {
 				<div className="w-full lg:w-1/2 relative">
 					<Image
 						src="/about-img.jpg" // Replace with your about image
-						alt="About Shree Ganesh Ayurvedic Clinic"
+						alt="About Sharma Hospital"
 						width={600}
 						height={500}
 						unoptimized={true}
@@ -72,14 +72,13 @@ const AboutSection: React.FC = () => {
 				<div className="w-full lg:w-1/2 mt-8 lg:mt-0 lg:pl-12">
 					{/* Updated H1 with SEO-friendly keywords */}
 					<h1 className="text-4xl font-bold mb-4">
-						Shree Ganesh Ayurvedic Clinic: Best Ayurvedic Treatments & Natural
-						Healing
+						Sharma Hospital: Best Ayurvedic Treatments & Natural Healing
 					</h1>
 					<p className="text-lg text-gray-700 mb-6">
-						At Shree Ganesh Ayurvedic Clinic, we blend ancient Ayurvedic
-						traditions with modern insights to offer holistic, personalized
-						care. Our authentic treatments and herbal formulations help restore
-						balance and promote natural healing.
+						At Sharma Hospital, we blend ancient Ayurvedic traditions with
+						modern insights to offer holistic, personalized care. Our authentic
+						treatments and herbal formulations help restore balance and promote
+						natural healing.
 					</p>
 
 					<Link href="/services">

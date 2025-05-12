@@ -8,23 +8,22 @@ import Footer from "@/components/Footer";
 import SideButtons from "@/components/SideButtons";
 
 export const metadata: Metadata = {
-	title:
-		"Shree Ganesh Ayurvedic Clinic | Authentic Ayurvedic Treatments & Holistic Wellness",
+	title: "Sharma Hospital | Authentic Ayurvedic Treatments & Holistic Wellness",
 	description:
-		"Experience holistic Ayurvedic healing at Shree Ganesh Ayurvedic Clinic. Our award-winning team offers authentic Ayurvedic treatments, personalized care, and natural therapies to restore balance and well-being.",
+		"Experience holistic Ayurvedic healing at Sharma Hospital. Our award-winning team offers authentic Ayurvedic treatments, personalized care, and natural therapies to restore balance and well-being.",
 	openGraph: {
 		title:
-			"Shree Ganesh Ayurvedic Clinic | Authentic Ayurvedic Treatments & Holistic Wellness",
+			"Sharma Hospital | Authentic Ayurvedic Treatments & Holistic Wellness",
 		description:
-			"Experience holistic Ayurvedic healing at Shree Ganesh Ayurvedic Clinic. Our award-winning team offers authentic Ayurvedic treatments, personalized care, and natural therapies to restore balance and well-being.",
+			"Experience holistic Ayurvedic healing at Sharma Hospital. Our award-winning team offers authentic Ayurvedic treatments, personalized care, and natural therapies to restore balance and well-being.",
 		url: "https://www.shreeganeshayurvedicclinic.com",
-		siteName: "Shree Ganesh Ayurvedic Clinic",
+		siteName: "Sharma Hospital",
 		images: [
 			{
 				url: "https://www.shreeganeshayurvedicclinic.com/og-image.jpg",
 				width: 1200,
 				height: 630,
-				alt: "Shree Ganesh Ayurvedic Clinic",
+				alt: "Sharma Hospital",
 			},
 		],
 		locale: "en_US",

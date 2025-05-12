@@ -53,7 +53,7 @@ const Header: React.FC = () => {
 						<Link href="/">
 							{/* <Image
 								src="/uploads/image/eBiaCQs2-geims-small-logo.png"
-								alt="Shree Ganesh Ayurvedic Clinic"
+								alt="Sharma Hospital"
 								width={40}
 								height={40}
 								 unoptimized={true}
@@ -80,14 +80,14 @@ const Header: React.FC = () => {
 							<Link href="/">
 								{/* <Image
 									src="/uploads/image/eBiaCQs2-geims-small-logo.png"
-									alt="Shree Ganesh Ayurvedic Clinic"
+									alt="Sharma Hospital"
 									width={40}
 									height={40}
 									 unoptimized={true}
 									className="h-10"
 								/> */}
 								<h2 className="text-3xl font-extrabold md:mr-4">
-									Shree Ganesh Ayurvedic Clinic
+									Sharma Hospital
 								</h2>
 							</Link>
 						</div>
